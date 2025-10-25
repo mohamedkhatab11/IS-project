@@ -1,0 +1,27 @@
+TA_ID,Name,PreferredSlots,QualifiedCourses (with Role)
+1,PHY_TA_1,N/A,PHY 113 (TUT + LAB)
+2,PHY_TA_2,N/A,PHY 113 (TUT + LAB)
+3,PHY_LAB_TA_1,N/A,PHY 113 (LAB)
+4,Eng. Mariam Ismael,N/A,"CSC 111 (LAB), CNC 411 (LAB)"
+5,Eng. Nour Akram,N/A,"CSC 111 (LAB), BIF 412 (LAB)"
+6,Eng. Mariem Nagy,N/A,"CSC 111 (LAB), AID 413 (LAB)"
+7,Eng. Nada Ahmed,N/A,"CSC 211 (LAB), CSC 317 (LAB)"
+8,Eng. Menna Magdy,N/A,"CSC 211 (LAB), CSC 317 (LAB)"
+9,Eng. Nada Hamdy,N/A,"CNC 111 (LAB), CNC 311 (LAB)"
+10,Eng. Menna Hamdy,N/A,"CNC 111 (LAB), CNC 312 (LAB + TUT)"
+11,Eng. Omnia Shehata,N/A,"CNC 111 (LAB), AID 321 (TUT)"
+12,Eng. Heba Abdelkader,N/A,"CNC 111 (LAB), CSE 214 (LAB + TUT)"
+13,Eng. Omnya Ramadan,N/A,CSE 214 (LAB + TUT)
+14,Eng. Fatma Elsayed,N/A,"CNC 311 (LAB), AID 417 (LAB)"
+15,Eng. Salma Waleed,N/A,"AID 312 (LAB), AID 311 (LAB + TUT)"
+16,Eng. Nourhan Waleed,N/A,"AID 312 (LAB), CNC 314 (LAB)"
+17,Eng. Sama Alqasaby,N/A,"AID 312 (LAB), CNC 314 (LAB)"
+18,Eng. ECE,N/A,"ECE 324 (LAB), BIF 411 (LAB + TUT), BIF 412 (TUT)"
+19,Eng. Zeina Sherif,N/A,"CSC 314 (LAB + TUT), CSC 410 (LAB + TUT), CSC 426 (LAB + TUT)"
+20,Eng. Aya Tarek,N/A,"CSC 412 (LAB + TUT), CNC 418 (LAB + TUT), CNC 413 (LAB + TUT)"
+21,Eng. Nouran Moussa,N/A,"CSC 414 (LAB + TUT), CSC 415 (LAB + TUT), BIF 413 (LAB + TUT), BIF 424 (LAB + TUT), BIF 425 (LAB + TUT)"
+22,Eng. Nada Essam,N/A,AID 411 (LAB + TUT)
+23,Eng. Zeina Ahmed,N/A,"AID 321 (TUT), AID 427 (TUT)"
+24,Eng. Zeina Shreif,N/A,AID 427 (LAB)
+25,Eng. Sama Osama,N/A,"CNC 411 (TUT), CNC 419 (LAB + TUT)"
+26,Eng. BAS,N/A,BIF 311 (LAB + TUT)

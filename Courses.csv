@@ -1,0 +1,55 @@
+Year,Semester,Specialization,CourseCode,Title,LecSlots,TutSlots,LabSlots
+1,1,N/A,LRA 101,Japanese Culture,1,0,0
+,,,LRA 401,Japanese Language (1),1,0,0
+,,,MTH 111,Mathematics (1),1,1,0
+,,,PHY 113,Physics (1),1,1,1
+,,,CSC 111,Fundamentals of Programming,1,0,1
+,,,LRA 104,Music and Technology,1,0,0
+,,,LRA 105,Theater and Drama,1,0,0
+,,,ECE 111,Digital Logic Design,1,1,1
+,2,,,,,,
+2,3,,LRA 403,Japanese Language (3),1,0,0
+,,,LRA 306,Natural Resources and Sustainability,1,0,0
+,,,MTH 212,Probability and Statistics,1,1,0
+,,,ACM 215,Ordinary Differential Equations,1,1,0
+,,,CSC 211,Software Engineering,1,0,1
+,,,CNC 111,Networks and Web Programming,1,0,1
+,,,CSC 114,Algorithms Analysis and Design,1,0,1
+,,,CSE 214,Computer Organization,1,1,1
+,4,,,,,,
+3,5,CSC,CNC 311,Computer Networks,1,0,1
+,,,AID 312,Intelligent Systems,1,0,1
+,,,CNC 314,Database Systems,1,0,1
+,,,ECE 324,Digital Signal Processing,1,0,1
+,,,CSC 317,Computer Graphics and Visualization,1,0,1
+,,,CSC 314,Software Modeling and Analysis,1,1,1
+,,AID,CNC 311,Computer Networks,1,0,1
+,,,AID 312,Intelligent Systems,1,0,1
+,,,CNC 314,Database Systems,1,0,1
+,,,ECE 324,Digital Signal Processing,1,0,1
+,,,CSC 317,Computer Graphics and Visualization,1,0,1
+,,,AID 311,Mathematics of Data Science,1,1,1
+,,CNC,CNC 311,Computer Networks,1,0,1
+,,,AID 312,Intelligent Systems,1,0,1
+,,,CNC 314,Database Systems,1,0,1
+,,,ECE 324,Digital Signal Processing,1,0,1
+,,,CSC 317,Computer Graphics and Visualization,1,0,1
+,,,CNC 312,Foundations of Information Systems,1,1,1
+,,BIF,CNC 311,Computer Networks,1,0,1
+,,,AID 312,Intelligent Systems,1,0,1
+,,,CNC 314,Database Systems,1,0,1
+,,,ECE 324,Digital Signal Processing,1,0,1
+,,,CSC 317,Computer Graphics and Visualization,1,0,1
+,,,BIF 311,Human Biology,1,1,1
+,6,CSC,,,,,
+,,AID,,,,,
+,,CNC,,,,,
+,,BIF,,,,,
+4,7,CSC,CSC 413,Graduation Project I,0,0,0
+,,AID,AID 414,Graduation Project (1),0,0,0
+,,CNC,CNC 414,Graduation Project (1),0,0,0
+,,BIF,BIF 410,Graduation Project (1),0,0,0
+,8,CSC,,,,,
+,,AID,,,,,
+,,CNC,,,,,
+,,BIF,,,,,

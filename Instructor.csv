@@ -1,0 +1,31 @@
+InstructorID,Name,PreferredSlots,QualifiedCourses
+1,Dr. Sherine Elmotasem,N/A,LRA 101
+2,Dr. Ayman Arafa,N/A,"MTH 111, ACM 215"
+3,Dr. Adel Fathy,N/A,PHY 113
+4,Dr. Reda Elbasiony,N/A,"CSC 111, CNC 312"
+5,MT_Instructors,N/A,LRA 104
+6,TD_Instructors,N/A,LRA 105
+7,Prof. Ahmed Allam,N/A,ECE 111
+8,Dr. Sameh Sherif,N/A,ECE 111
+9,Prof. LBA,N/A,LRA 306
+10,Prof. Ahmed Zakaria,N/A,MTH 212
+11,Dr. Ahmed Arafa,N/A,"CSC 211, AID 413, CNC 411, AID 427"
+12,Dr. Ahmed Anter,N/A,"CNC 111, AID 311"
+13,Prof. Marghany Hassan,N/A,"CSC 114, AID 411, AID 321, BIF 413"
+14,Prof. Mostafa Soliman,N/A,CSE 214
+15,Prof. Samir Ahmed,N/A,"CNC 311, CNC 413"
+16,Dr. Ahmed Bayumi,N/A,"AID 312, CSC 415"
+17,Dr. Mohamed Issa,N/A,"CNC 314, AID 417, BIF 425"
+18,Dr. Ahmed Abdel-Malk,N/A,ECE 324
+19,Dr. Hataba,N/A,"CSC 317, CNC 419, CNC 418"
+20,Dr. Mustafa AlSayed,N/A,"CSC 314, CSC 412, CSC 414, CNC 415, CSC 426"
+21,Dr. Mohamed Khames,N/A,"CSC 410, CSC 411"
+22,Prof. Eman Allam,N/A,BIF 311
+23,Dr. Sameh Shreif,N/A,BIF 412
+24,Dr. Mohamed Akhames,N/A,BIF 424
+25,JL_Instructor1,N/A,"LRA 401, LRA 402, LRA 403"
+26,JL_Instructor2,N/A,"LRA 401, LRA 402, LRA 403"
+27,JL_Instructor3,N/A,"LRA 401, LRA 402, LRA 403"
+28,JL_Instructor4,N/A,"LRA 401, LRA 402, LRA 403"
+29,JL_Instructor5,N/A,"LRA 401, LRA 402, LRA 403"
+30,JL_Instructor6,N/A,"LRA 401, LRA 402, LRA 403"

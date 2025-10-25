@@ -1,0 +1,123 @@
+Building,Space,Capacity (Seats),Type of Space
+,,,
+Building 07,F1.01,25,Classroom
+,F1.02,25,Classroom
+,F1.20,25,Classroom
+,F1.21,25,Classroom
+,F1.22,25,Classroom
+,F1.23,25,Classroom
+,F1.24,25,Classroom
+,G.01,75,Classroom
+Building 08,F1.06,50,Classroom
+,F1.07,25,Classroom
+,F1.10,25,Classroom
+,F1.11,25,Classroom
+,F1.25,25,Classroom
+,G.41,75,Classroom
+Building 09,F1.04,25,Classroom
+,F1.05,25,Classroom
+,F1.09,15,Classroom
+,F1.12,15,Classroom
+,F1.13,25,Classroom
+,F1.14,25,Classroom
+,F1.22,25,Classroom
+,G.35,75,Classroom
+Building 10,F1.06,25,Classroom
+,F1.07,25,Classroom
+,F1.08,25,Classroom
+,F1.10,25,Classroom
+,F1.11,25,Classroom
+,F1.18,25,Classroom
+Building 17,F1.03,75,Classroom
+,F1.08,25,Classroom
+,F1.09,25,Classroom
+,F1.13,25,Classroom
+,F1.14,25,Classroom
+,F1.15,75,Classroom
+,F1.16,75,Classroom
+,F1.17,25,Classroom
+,F1.18,25,Classroom
+,G.02,25,Classroom
+,G.04,25,Classroom
+,G.07,25,Classroom
+,G.08,25,Classroom
+,G.09,75,Classroom
+,G.12,25,Classroom
+,G.19,25,Classroom
+,G.20,25,Classroom
+,G.21,25,Classroom
+Building 18,F1.01,50,Classroom
+,F1.02,25,Classroom
+,F1.05,50,Classroom
+,F1.08,25,Classroom
+,F1.10,50,Classroom
+,F1.12,25,Classroom
+,F1.13,25,Classroom
+,F1.14,50,Classroom
+,F1.19,50,Classroom
+,F1.20,25,Classroom
+,G.02,25,Classroom
+,G.03,25,Classroom
+,G.04,25,Classroom
+,G.07,25,Classroom
+,G.08,75,Classroom
+,G.09,50,Classroom
+,G.11,25,Classroom
+,G.12,25,Classroom
+,G.13,50,Classroom
+,G.16,25,Classroom
+,G.18,50,Computer Lab
+,G.19,25,Classroom
+,G.20,25,Classroom
+,G.21,50,Classroom
+Building 25,F1.10,25,Classroom
+,F1.11,25,Classroom
+,F1.13,25,Classroom
+,F1.14,25,Classroom
+,F1.18,25,Classroom
+,G.02,25,Classroom
+,G.04,25,Classroom
+,G.05,25,Classroom
+,G.13,50,Classroom
+,G.16,25,Classroom
+,G.17,25,Classroom
+Building 26,F1.01,75,Classroom
+,F1.02,25,Classroom
+,F1.03,25,Classroom
+,F1.04,25,Classroom
+,F1.08,75,Classroom
+,F1.10,75,Classroom
+,F1.12,25,Classroom
+,F1.13,75,Classroom
+,F1.16,75,Classroom
+,F1.19,25,Drawing Studio
+,G.01,50,Drawing Studio
+,G.02,50,Classroom
+,G.03,25,Classroom
+,G.04,25,Classroom
+,G.06,25,Classroom
+,G.07,25,Classroom
+,G.08,75,Classroom
+,G.10,25,Classroom
+,G.11,50,Drawing Studio
+,G.12,25,Classroom
+,G.13,25,Classroom
+,G.14,50,Classroom
+,G.18,25,Classroom
+,G.19,50,Drawing Studio
+,G.20,25,Classroom
+,G.21,75,Classroom
+CoE,F1.12,50,FoE Drawing Lab
+CoE,PHY_LAB,75,PHY_LAB
+Hall - Blue,Hall,150,Hall
+Hall - Green,Hall,150,Hall
+Hall - Red,Hall,150,Hall
+Hall - Yellow,Hall,150,Hall
+B7,Theater,100,Theater
+B8,Theater,100,Theater
+B9,Theater,100,Theater
+B10,Theater,100,Theater
+B25,G-21,100,Theater
+B25,F1-19,100,Theater
+B18,F1-21,100,Theater
+B26,G-22 ,100,Theater
